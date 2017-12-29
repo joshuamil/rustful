@@ -1,0 +1,11 @@
+[package]
+name = "rustful"
+version = "0.1.0"
+authors = ["joshuamil <joshuamil@gmail.com>"]
+
+[dependencies]
+nickel = "*"
+hyper = "*"
+toml = "*"
+serde = "*"
+serde_derive = "*"
