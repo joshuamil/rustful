@@ -1,0 +1,6 @@
+{
+  "endpoints": [
+    { "path": "foo", "name": "Foo", "version": "v1" },
+    { "path": "bar", "name": "Bar", "version": "v1" },
+  ]
+}

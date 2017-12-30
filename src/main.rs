@@ -15,7 +15,7 @@ mod conf;
 fn main() {
 
     // Use config values
-    let address = conf::parse_cofig();
+    let address = conf::parse_config();
 
     // Create new server instance
     let mut server = Nickel::new();
